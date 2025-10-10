@@ -1,0 +1,15 @@
+p{
+    background-color: chartreuse;
+    color: coral;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    text-size-adjust: 20px;
+    text-decoration-color: magenta;
+    
+}
+
+body{
+    background-image: url(/image/a.jpg);
+}
