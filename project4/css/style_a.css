@@ -1,0 +1,21 @@
+
+p{
+    background-color: chartreuse;
+    color: coral;
+    font-size: 30px;
+}
+h1{ 
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    color: magenta;
+    
+}
+
+body{
+    background-image: url(/project4/image/a.jpg);
+     background-size: cover;             
+     background-repeat: no-repeat;        
+     background-position: center;        
+    background-attachment: fixed;       
+}
